@@ -1,1 +1,0 @@
-# Kadai6-PHP-QA-form
